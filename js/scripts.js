@@ -1,5 +1,5 @@
 $(document).ready(function() {
   $("h2").click(function() {
-    $("p").show();
+    $(this).next('p').toggle();
   });
 });
