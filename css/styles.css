@@ -1,0 +1,14 @@
+.col-md-3{
+  background-color: #8642f4;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+body {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+p {
+  display: none;
+}
